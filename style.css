@@ -109,7 +109,7 @@ body {
   
   .profile_image {
     border-radius:50%;
-    width: 550px;
+    width: 400px;
     height: fit-content;
     vertical-align: middle;
     margin: 5px;
@@ -137,7 +137,7 @@ body {
   }
   
   .skill img {
-    height: 35px;
+    height: 80px;
     align-items: center;
   }
   
