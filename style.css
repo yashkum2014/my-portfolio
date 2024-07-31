@@ -96,12 +96,14 @@ body {
   }
   
   #about-me h1 {
+    text-align: center;
     font-size: 65px;
     margin-top: 90px;
     color: #7600bc;
   }
   
   #about-me p {
+    text-align: center;
     font-size: 25px;
     color: rgb(128, 128, 128);
     margin-top: -1cm;
